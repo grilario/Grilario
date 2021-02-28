@@ -1,18 +1,13 @@
-### Hi there 👋
+# Luis Fernando
 
-  Tentando não virar modarador de rua
+Student IF Baiano - Guanambi
 
-<!--
-**Grilario/Grilario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-%40grilario__-brightgreen?&labelColor=brightgreen&logo=twitter&logoColor=white&link=https://twitter.com/grilario_)](https://twitter.com/grilario_) 
+[![Linkedin Badge](https://img.shields.io/badge/-Luis%20Fernando-brightgreen?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grilario/)](https://www.linkedin.com/in/grilario/) 
+[![Gmail Badge](https://img.shields.io/badge/-luisfernandinho094@gmail.com-brightgreen?&logo=Gmail&logoColor=white&link=mailto:luisfernandinho094@gmail.com)](mailto:luisfernandinho094@gmail.com)
 
-Here are some ideas to get you started:
+Web development student, attending high school at IF Baiano - 1° - 3°
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FullStack ❤ : Node JS, React, Express, Mongo DB
+
+"You are not defeated when you lose. You are defeated when you quit" - Paulo Coelho
