@@ -8,6 +8,6 @@ Student IF Baiano - Guanambi
 
 Web development student, attending high school at IF Baiano - 1° - 3°
 
-FullStack ❤ : Node JS, React, Express, Mongo DB
+Student ❤ : Node JS, React, Express, Mongo DB
 
 "You are not defeated when you lose. You are defeated when you quit" - Paulo Coelho
